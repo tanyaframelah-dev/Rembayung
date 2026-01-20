@@ -1,0 +1,5 @@
+{
+  "name": "Rembayung",
+  "description": "Exclusive restaurant reservation system for Rembayung, featuring high-concurrency queue management.",
+  "requestFramePermissions": []
+}
